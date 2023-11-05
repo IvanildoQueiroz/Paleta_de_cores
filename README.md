@@ -1,8 +1,8 @@
 # 🎨 Paleta de cores
 Este app contém diversas paletas de cores.
 
-## obre o projeto 
-Este projeto centenas de paletas. Podendo elas serem copiadas apenas com o **clique na descrição da cor**.
+## Sobre o projeto 
+Este projeto tem centenas de paletas. Podendo elas serem copiadas apenas com o **clique na descrição da cor**.
 
 ## 🎯 Objetivo do projeto
 Encontrar paletas respectivos projetos.
