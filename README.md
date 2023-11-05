@@ -13,5 +13,5 @@ Utilizadas as seguintes tecnologias/linguagens:
 - *HTML*
 - *CSS*
 ## ⚙️ Acesso ao projeto (Deploy)
-O acesso é realizado através deste link [Paleta de Cores](https://ivanildoQueiroz.github.io/Paleta_de_cores).
+O acesso é realizado através deste link [Paleta de Cores](https://ivanildoqueiroz.github.io/Paleta_de_cores/).
 
