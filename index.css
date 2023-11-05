@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image:linear-gradient(to right, rgb(7, 7, 7),rgb(139, 138, 138),rgb(14, 14, 14)) ;
+    background-color: rgba(99, 57, 13, 0.947);
     text-align: center;
     padding-top: 5%;
     font:normal 700 23px 'Pacifico', 'cursive';
