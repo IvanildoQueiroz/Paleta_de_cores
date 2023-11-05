@@ -5,7 +5,7 @@ Este app contém diversas paletas de cores.
 Este projeto tem centenas de paletas. Podendo elas serem copiadas apenas com o **clique na descrição da cor**.
 
 ## 🎯 Objetivo do projeto
-Encontrar paletas respectivos projetos.
+Encontrar paletas para respectivos projetos.
 
 ## 📝 Tecnologias 
 Utilizadas as seguintes tecnologias/linguagens: 
